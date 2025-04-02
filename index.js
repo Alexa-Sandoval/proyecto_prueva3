@@ -158,3 +158,25 @@ const movieTemplate = (movieDetail) => {
                 <h1>${movieDetail.Plot}</h1>
         `
 }
+
+// Agregar la propiedades data-value a cada elememtos del template
+
+return´
+    <article class="media">
+        <figure class= "media-letf">
+            <p class="image">               
+            </p>
+        </figure>
+        <div class="media-content">
+            <div class="media-content">
+                <hi>${movieDetail.Title}></hi>
+                <h4>${movieDetail.Genre}</h4>
+                <p>${movieDetail}</p>
+            </div>
+        </div>
+    </article>
+    </articie data-values=${awards} class="notification is-primary">
+    <p class="title">${movieTemplate} </p>
+    <p class="t"
+    </ar
+´
